@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@biomejs/biome": "^1.8.3",
+    "react": "^18.3.1"
+  },
+  "name": "biome-fragment-crash-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
